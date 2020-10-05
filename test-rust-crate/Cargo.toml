@@ -1,0 +1,8 @@
+[package]
+name = "dummy_crate"
+version = "0.0.1"
+description = "dummy crate for local testing of scripts"
+license = "Apache-2.0"
+edition = "2018"
+
+[dependencies]
